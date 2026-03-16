@@ -86,14 +86,19 @@ observability-stack/
 
 ## Screenshots
 
-### Grafana Dashboard
-![Grafana]([screenshots/grafana-dashboard.png](https://github.com/rohit-513/Complete-Observability-Stack-Prometheus-Grafana-Loki-Jaeger-/blob/main/screenshots/1.%20Grafana%20-%20Node%20Exporter%20Dashboard.png))
+1. Grafana - Node Exporter Dashboard (localhost:3000)
+The main dashboard with CPU, RAM, disk graphs
 
-### Prometheus Targets
-![Prometheus](screenshots/prometheus-targets.png)
+2. Prometheus - Targets Page (localhost:9090/targets)
+Shows all services being monitored as UP ✅
 
-### Jaeger UI
-![Jaeger](screenshots/jaeger-ui.png)
+3. Prometheus - Graph (localhost:9090)
+Type up in the search box → click Execute → shows all running services
+
+4. Jaeger UI (localhost:16686)
+Just the homepage — shows the tracing tool is running
+
+5. Docker Desktop or terminal showing all containers running
 
 ---
 
