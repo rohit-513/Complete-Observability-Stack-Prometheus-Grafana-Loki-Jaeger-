@@ -84,6 +84,19 @@ observability-stack/
 
 ---
 
+## Screenshots
+
+### Grafana Dashboard
+![Grafana](screenshots/grafana-dashboard.png)
+
+### Prometheus Targets
+![Prometheus](screenshots/prometheus-targets.png)
+
+### Jaeger UI
+![Jaeger](screenshots/jaeger-ui.png)
+
+---
+
 ## 💡 Resume Line
 
 > Built full observability platform (metrics, logs, and traces) using Prometheus, Loki, Jaeger, and Grafana via Docker Compose.
