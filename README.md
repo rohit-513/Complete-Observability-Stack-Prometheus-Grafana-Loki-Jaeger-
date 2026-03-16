@@ -87,7 +87,7 @@ observability-stack/
 ## Screenshots
 
 ### Grafana Dashboard
-![Grafana](screenshots/grafana-dashboard.png)
+![Grafana]([screenshots/grafana-dashboard.png](https://github.com/rohit-513/Complete-Observability-Stack-Prometheus-Grafana-Loki-Jaeger-/blob/main/screenshots/1.%20Grafana%20-%20Node%20Exporter%20Dashboard.png))
 
 ### Prometheus Targets
 ![Prometheus](screenshots/prometheus-targets.png)
