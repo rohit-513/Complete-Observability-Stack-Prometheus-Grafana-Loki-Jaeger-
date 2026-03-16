@@ -1,0 +1,11 @@
+# Docker volumes (not needed in git)
+prometheus_data/
+grafana_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
